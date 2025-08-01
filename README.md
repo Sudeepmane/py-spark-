@@ -11,5 +11,5 @@ Creating DataFrames in PySpark
   - Full Outer Join
   - Left Semi Join
   - Left Anti Join
-  - - ✅ Grouping data with `groupBy()` and applying aggregations like `count()`, `sum()`, `avg()`.
+  ✅ Grouping data with `groupBy()` and applying aggregations like `count()`, `sum()`, `avg()`.
   Main notebook containing all code examples
