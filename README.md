@@ -4,7 +4,7 @@ Creating DataFrames in PySpark
 - ✅ Filtering data using conditions
 - ✅ Applying `withColumn` and data transformations
 - ✅ Handling null values
-- ✅ Performing joins:
+- ✅ Performing joins
   - Inner Join
   - Left Join
   - Right Join
